@@ -1,10 +1,7 @@
-# 1. Why do i write this post?
-## 1.1. Why write blog is good?
+# 1. Writting blog to learn English and AI
+## 1.1. Writing is good. Everyone will write
 
-I learn one experience that is:
 "The best way to learn something is teach them again to the other"
-
-Actually, I am quite normal learner when i start writing my blog. The unique motivation lead me to patiently write blog is that I have plenty of spare time. And I think I have to do something to fill in empty box. And one plan come up in my mind, that is writing about AI blog. Thus, why do I decise to write blog? Let me list the pros and cons:
 
 **Advantage**:
 - When you learn a new things, your neural conections is temporary. Thus, Docking the knowdge make you remember it better.
@@ -24,22 +21,15 @@ Actually, I am quite normal learner when i start writing my blog. The unique mot
 - You can't build up a website, latex, .... I know it can be a truly interception. But in this topic, I will share you my tip how to build A blog on jekyl.
 - You can lost your rank when github stop free-domain service. I think is also a risk, you should buy a backup `.com` domain.
 
-At the begin, I have to face up with the above troubles like you face. But I motivate my-self to be positive thinking and focusing to the advantage instead of disavantage. That is the secrete help me win.
+Positive thinking and focusing to the advantage instead of disavantage. That is the secrete to win.
 
-When the first topic launched, I feel pleasure a litle, that moment reinforces to me that I can do it.
+## 1.2. Learn English and AI during blogging
 
-## 1.2. I hope you also write blog
-
-You know, writing blog actually is not quite hard things. The benefit you gain is much than loss.
-
-My aim, at the first time when I write blog, it just simple discovers AI. And now, I go beyond, my blog is welcomed. I have a group, fanpage to share many people also learn the new things like me.
-
-In my experience, to write a good blog require you must have two things: 
+to write a good blog require you must have two things: 
 
 - a perseverance to clinch your-self with favorite AI topic you want to share.
 - presentation ability: At first, your blog must have good UI expression. Second, Your latex, fontsize, header must be uniformly show up. 
 
-The first one is reply on your volition. The second one what I share you in this topic.
 
 # 2. Technical behind blog
 
