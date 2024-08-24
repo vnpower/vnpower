@@ -4,9 +4,7 @@ author: Vincent Khuat
 title: Các kí hiệu toán học
 ---
 
-# Bảng thuật ngữ toán học
-
-## Bảng cách đọc
+# Bảng cách đọc
 
 <table border="1" cellpadding="0" cellspacing="5" class="MsoNormalTable" style="background: white; border: solid #AAAAAA 1.0pt; font-family: Times New Roman; margin-left: 12.0pt; mso-border-alt: solid #AAAAAA .75pt; mso-border-insideh: .75pt solid #AAAAAA; mso-border-insidev: .75pt solid #AAAAAA; mso-cellspacing: 3.7pt; mso-padding-alt: 3.0pt 3.0pt 3.0pt 3.0pt;"><tbody>
 <tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
@@ -182,62 +180,9 @@ title: Các kí hiệu toán học
 
 
 
+# Bảng thuật ngữ toán học
 
 <div class="single_content">
-<p><em>Việc ghi nhớ các <strong>kí hiệu trong toán học</strong> sẽ giúp các em hiểu rõ ý nghĩa và hoàn thành bài tập toán nhanh chóng. Đặc biệt, việc sử dụng các kí hiệu khi tóm tắt, hệ thống hóa công thức sẽ giúp việc ghi nhớ dễ dàng hơn. Vì vậy, Marathon Education đã thực hiện tổng hợp danh sách </em><strong><em>các kí hiệu trong toán học</em></strong><em> trong bài viết sau.</em></p>
-<p>&gt;&gt;&gt; Xem thêm:</p>
-<ul>
-<li>Tổng Hợp <a href="https://blog.marathon.edu.vn/cong-thuc-toan-12/" class="broken_link">Công Thức Toán 12</a> Đầy Đủ Và Chính Xác</li>
-<li>Tổng Hợp <a href="https://blog.marathon.edu.vn/cong-thuc-toan-hinh-12/" class="broken_link">Công Thức Toán Hình 12</a> Đầy Đủ Và Chi Tiết Nhất</li>
-</ul>
-<div class="lwptoc lwptoc-light lwptoc-notInherit" data-smooth-scroll="1" data-smooth-scroll-offset="68" data-lwptoc-initialized="1"><div class="lwptoc_i"> <div class="lwptoc_header" style="font-size:24px;">
-<b class="lwptoc_title" style="font-weight:600;">Mục lục</b> </div>
-<div class="lwptoc_items lwptoc_items-visible">
-<div class="lwptoc_itemWrap"><div class="lwptoc_item"> <a href="#Gioi_thieu_ve_cac_ki_hieu_trong_toan_hoc">
-<span class="lwptoc_item_label">Giới thiệu về các kí hiệu trong toán học</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Bang_tong_hop_cac_ki_hieu_trong_toan_hoc_pho_bien_day_du_va_chi_tiet">
-<span class="lwptoc_item_label">Bảng tổng hợp các kí hiệu trong toán học phổ biến đầy đủ và chi tiết</span>
-</a>
-<div class="lwptoc_itemWrap"><div class="lwptoc_item"> <a href="#Cac_ki_hieu_so_trong_toan_hoc">
-<span class="lwptoc_item_label">Các kí hiệu số trong toán học</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Cac_ki_hieu_trong_toan_hoc_co_ban">
-<span class="lwptoc_item_label">Các kí hiệu trong toán học cơ bản</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Cac_ki_hieu_dai_so_trong_toan_hoc">
-<span class="lwptoc_item_label">Các kí hiệu đại số trong toán học</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Cac_ki_hieu_hinh_hoc">
-<span class="lwptoc_item_label">Các kí hiệu hình học</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Cac_ki_hieu_xac_suat_va_thong_ke">
-<span class="lwptoc_item_label">Các kí hiệu xác suất và thống kê</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#Cac_ki_hieu_tap_hop_trong_toan_hoc">
-<span class="lwptoc_item_label">Các kí hiệu tập hợp trong toán học</span>
-</a>
-</div></div></div><div class="lwptoc_item"> <a href="#Bieu_tuong_Hy_Lap">
-<span class="lwptoc_item_label">Biểu tượng Hy Lạp</span>
-</a>
-</div><div class="lwptoc_item"> <a href="#So_La_Ma">
-<span class="lwptoc_item_label">Số La Mã</span>
-</a>
-</div></div></div>
-</div></div><h2 id="h-giới-thiệu-về-cac-ki-hiệu-trong-toan-học"><span id="Gioi_thieu_ve_cac_ki_hieu_trong_toan_hoc"><strong>Giới thiệu về các kí hiệu trong toán học</strong></span></h2>
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img width="600" height="376" class="wp-image-189" src="https://blogapi.marathon.edu.vn/wp-content/uploads/2022/01/gioi-thieu-ve-cac-ki-hieu-trong-toan-hoc.jpg" alt="Giới thiệu về các kí hiệu trong toán học" srcset="https://blog.marathon.edu.vn/wp-content/uploads/2022/01/gioi-thieu-ve-cac-ki-hieu-trong-toan-hoc.jpg 600w, https://blog.marathon.edu.vn/wp-content/uploads/2022/01/gioi-thieu-ve-cac-ki-hieu-trong-toan-hoc-500x313.jpg 500w, https://blog.marathon.edu.vn/wp-content/uploads/2022/01/gioi-thieu-ve-cac-ki-hieu-trong-toan-hoc-300x188.jpg 300w" sizes="(max-width: 600px) 100vw, 600px">
-<figcaption>Giới thiệu về các kí hiệu trong toán học (Nguồn: Internet)</figcaption>
-</figure>
-</div>
-<p>Bộ môn Toán phụ thuộc nhiều vào các con số và ký hiệu. <strong>Các kí hiệu trong toán học</strong> được sử dụng để thực hiện các phép toán. Mỗi kí hiệu toán học vừa đại diện cho một đại lượng, vừa biểu thị mối quan hệ giữa các đại lượng.</p>
-<p>Ví dụ:&nbsp;</p>
-<ul>
-<li>Số Pi (π) giữ giá trị 22/7 hoặc 3,17.</li>
-<li>Hằng số điện tử hay hằng số Euler (e) có giá trị là 2,718281828…&nbsp;</li>
-</ul>
-<div style="clear:both; margin-top:0em; margin-bottom:1em;"><a href="https://blog.marathon.edu.vn/tich-vo-huong-cua-hai-vecto/" target="_blank" rel="dofollow" class="ucaaa4a1469655cdfc9cd0b4014aa3eee"><div style="padding-left:1em; padding-right:1em;"><span class="ctaText"></span>&nbsp; <span class="postTitle">Tích Vô Hướng Của Hai Vectơ: Lý Thuyết Và Giải Bài Tập</span></div></a></div><h2 id="bảng-tổng-hợp-cac-ki-hiệu-trong-toan-học-phổ-biến"><span id="Bang_tong_hop_cac_ki_hieu_trong_toan_hoc_pho_bien_day_du_va_chi_tiet"><strong>Bảng tổng hợp các kí hiệu trong toán học phổ biến</strong> <strong>đầy đủ và chi tiết</strong></span></h2>
-<p>Team Marathon Education đã tổng hợp các các kí hiệu trong toán học phổ biến bên dưới. Nội dung này được phân loại rõ ràng để các em tiện theo dõi và sử dụng trong quá trình học tập môn Toán.</p>
 <h3><span id="Cac_ki_hieu_so_trong_toan_hoc">Các kí hiệu số trong toán học</span></h3>
 <figure class="wp-block-table">
 <table>
