@@ -6,12 +6,7 @@ title: Các kí hiệu toán học
 
 # Bảng thuật ngữ toán học
 
-Mục lục: 
-[Bảng cách đọc](#L191)
-[B](#b)
-
-
-
+## Bảng cách đọc
 
 <table border="1" cellpadding="0" cellspacing="5" class="MsoNormalTable" style="background: white; border: solid #AAAAAA 1.0pt; font-family: Times New Roman; margin-left: 12.0pt; mso-border-alt: solid #AAAAAA .75pt; mso-border-insideh: .75pt solid #AAAAAA; mso-border-insidev: .75pt solid #AAAAAA; mso-cellspacing: 3.7pt; mso-padding-alt: 3.0pt 3.0pt 3.0pt 3.0pt;"><tbody>
 <tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
@@ -187,7 +182,7 @@ Mục lục:
 
 
 
-## Bảng cách đọc
+
 <div class="single_content">
 <p><em>Việc ghi nhớ các <strong>kí hiệu trong toán học</strong> sẽ giúp các em hiểu rõ ý nghĩa và hoàn thành bài tập toán nhanh chóng. Đặc biệt, việc sử dụng các kí hiệu khi tóm tắt, hệ thống hóa công thức sẽ giúp việc ghi nhớ dễ dàng hơn. Vì vậy, Marathon Education đã thực hiện tổng hợp danh sách </em><strong><em>các kí hiệu trong toán học</em></strong><em> trong bài viết sau.</em></p>
 <p>&gt;&gt;&gt; Xem thêm:</p>
