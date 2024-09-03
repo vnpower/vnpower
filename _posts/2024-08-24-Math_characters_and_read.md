@@ -6,403 +6,836 @@ title: Các kí hiệu toán học
 
 # Bảng cách đọc
 
-<table border="1" cellpadding="0" cellspacing="5" class="MsoNormalTable" style="background: white; border: solid #AAAAAA 1.0pt; font-family: Times New Roman; margin-left: 12.0pt; mso-border-alt: solid #AAAAAA .75pt; mso-border-insideh: .75pt solid #AAAAAA; mso-border-insidev: .75pt solid #AAAAAA; mso-cellspacing: 3.7pt; mso-padding-alt: 3.0pt 3.0pt 3.0pt 3.0pt;"><tbody>
-<tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<b><span style="color: #252525; font-size: 14.0pt;">Chữ cái</span></b></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<b style="mso-bidi-font-weight: normal;"><span style="color: #252525; font-size: 14.0pt;">Tiếng Anh</span></b></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<span style="color: #252525; font-size: 14.0pt; mso-bidi-font-weight: bold;">Phiên âm tiếng Việt</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<b><span style="color: #252525; font-size: 14.0pt;">Chữ cái</span></b></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<b style="mso-bidi-font-weight: normal;"><span style="color: #252525; font-size: 14.0pt;">Tiếng Anh</span></b></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
-<span style="color: #252525; font-size: 14.0pt; mso-bidi-font-weight: bold;">Phiên âm tiếng Việt</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 1;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Αα</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Alpha</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">An-pha</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Νν</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Nu</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Nuy</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 2;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ββ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Beta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Bê-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ξξ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Xi</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Xi</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 3;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Γγ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Gamma</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Gam-ma</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Οο</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Omicron</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Ô-mic-rôn</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 4;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Δδ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Delta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Đen-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ππ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Pi</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Pi</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 5;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Εε</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Epsilon</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Ép-si-lon</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ρρ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Rho</span><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Rô</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 6;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ζζ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Zeta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Dê-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Σσς</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Sigma</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Xích-ma</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 7;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ηη</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Eta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Ê-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ττ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Tau</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Tô</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 8;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Θθ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Theta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Tê-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Υυ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Upsilon</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Úp-si-lon</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 9;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ιι</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Iota</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">I-ô-ta</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Φφ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Phi</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Phi</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 10;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Κκ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Kappa</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Kap-pa</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Χχ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Chi</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Si</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 11;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Λλ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Lamda</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Lam-đa</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ψψ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Psi</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Pờ-si</span></div>
-</td>  </tr>
-<tr style="mso-yfti-irow: 12; mso-yfti-lastrow: yes;">   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Μμ</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Mu</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Muy</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<b><span style="color: #252525;">Ωω</span></b><span style="color: #252525;"></span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525;">Omega</span></div>
-</td>   <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90"><div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
-<span style="color: #252525; mso-bidi-font-weight: bold;">Ô-mê-ga</span></div>
-</td>  </tr>
-</tbody></table>
+<table border="1" cellpadding="0" cellspacing="5" class="MsoNormalTable" style="background: white; border: solid #AAAAAA 1.0pt; font-family: Times New Roman; margin-left: 12.0pt; mso-border-alt: solid #AAAAAA .75pt; mso-border-insideh: .75pt solid #AAAAAA; mso-border-insidev: .75pt solid #AAAAAA; mso-cellspacing: 3.7pt; mso-padding-alt: 3.0pt 3.0pt 3.0pt 3.0pt;">
+  <tbody>
+    <tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <b>
+            <span style="color: #252525; font-size: 14.0pt;">Chữ cái
+            </span>
+          </b>
+        </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <b style="mso-bidi-font-weight: normal;">
+          <span style="color: #252525; font-size: 14.0pt;">Tiếng Anh
+          </span>
+          </b>
+        </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <span style="color: #252525; font-size: 14.0pt; mso-bidi-font-weight: bold;">Phiên âm tiếng Việt
+          </span>
+        </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <b>
+          <span style="color: #252525; font-size: 14.0pt;">Chữ cái
+          </span>
+          </b>
+        </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <b style="mso-bidi-font-weight: normal;">
+          <span style="color: #252525; font-size: 14.0pt;">Tiếng Anh
+          </span>
+          </b>
+        </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+        <div align="center" class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt; text-align: center;">
+          <span style="color: #252525; font-size: 14.0pt; mso-bidi-font-weight: bold;">Phiên âm tiếng Việt
+          </span>
+        </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 1;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Αα
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Alpha
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">An-pha
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Νν
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Nu
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Nuy
+      </span>
+      </div>
+      </td>    
+    </tr>
+    <tr style="mso-yfti-irow: 2;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ββ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Beta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Bê-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ξξ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Xi
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Xi
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 3;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Γγ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Gamma
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Gam-ma
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Οο
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Omicron
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Ô-mic-rôn
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 4;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Δδ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Delta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Đen-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ππ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Pi
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Pi
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 5;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Εε
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Epsilon
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Ép-si-lon
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ρρ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Rho
+      </span>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Rô
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 6;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ζζ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Zeta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Dê-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Σσς
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Sigma
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Xích-ma
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 7;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ηη
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Eta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Ê-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ττ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Tau
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Tô
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 8;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Θθ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Theta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Tê-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Υυ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Upsilon
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Úp-si-lon
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 9;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ιι
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Iota
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">I-ô-ta
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Φφ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Phi
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Phi
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 10;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Κκ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Kappa
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Kap-pa
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Χχ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Chi
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Si
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 11;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Λλ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Lamda
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Lam-đa
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ψψ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Psi
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Pờ-si
+      </span>
+      </div>
+      </td>  
+    </tr>
+    <tr style="mso-yfti-irow: 12; mso-yfti-lastrow: yes;">   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.9pt;" valign="top" width="47">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Μμ
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.05pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Mu
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.35pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Muy
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 34.55pt;" valign="top" width="46">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <b>
+      <span style="color: #252525;">Ωω
+      </span>
+      </b>
+      <span style="color: #252525;">
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 59.3pt;" valign="top" width="79">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525;">Omega
+      </span>
+      </div>
+      </td>   
+      <td style="border: solid #AAAAAA 1.0pt; mso-border-alt: solid #AAAAAA .75pt; padding: 3.0pt 3.0pt 3.0pt 3.0pt; width: 67.7pt;" valign="top" width="90">
+      <div class="MsoNormal" style="line-height: 16.8pt; margin-bottom: 6.0pt;">
+      <span style="color: #252525; mso-bidi-font-weight: bold;">Ô-mê-ga
+      </span>
+      </div>
+      </td>  
+    </tr>
+  </tbody>
+</table>
 
-
+  $$ C^2
+  =\int_{-\infty}^{+\infty} e^{-x^2} \mathrm{d}x
+   \int_{-\infty}^{+\infty} e^{-y^2} \mathrm{d}y\;. $$
 
 # Bảng thuật ngữ toán học
 
-<div class="single_content">
 <h3><span id="Cac_ki_hieu_so_trong_toan_hoc">Các kí hiệu số trong toán học</span></h3>
-<figure class="wp-block-table">
-<table>
-<tbody>
-<tr>
-<td>Tên</td>
-<td>Tây Ả Rập</td>
-<td>Roman</td>
-<td>Đông Ả Rập</td>
-<td>Do Thái</td>
-</tr>
-<tr>
-<td>không</td>
-<td>0</td>
-<td>&nbsp;</td>
-<td>٠</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>một</td>
-<td>1</td>
-<td>I&nbsp;</td>
-<td>١</td>
-<td>א</td>
-</tr>
-<tr>
-<td>hai</td>
-<td>2</td>
-<td>II</td>
-<td>٢</td>
-<td>ב</td>
-</tr>
-<tr>
-<td>ba</td>
-<td>3</td>
-<td>III</td>
-<td>٣</td>
-<td>ג</td>
-</tr>
-<tr>
-<td>bốn</td>
-<td>4</td>
-<td>IV</td>
-<td>٤</td>
-<td>ד</td>
-</tr>
-<tr>
-<td>năm</td>
-<td>5</td>
-<td>V</td>
-<td>٥</td>
-<td>ה</td>
-</tr>
-<tr>
-<td>sáu</td>
-<td>6</td>
-<td>VI</td>
-<td>٦</td>
-<td>ו</td>
-</tr>
-<tr>
-<td>bảy</td>
-<td>7</td>
-<td>VII</td>
-<td>٧</td>
-<td>ז</td>
-</tr>
-<tr>
-<td>tám</td>
-<td>8</td>
-<td>VIII</td>
-<td>٨</td>
-<td>ח</td>
-</tr>
-<tr>
-<td>chín</td>
-<td>9</td>
-<td>IX</td>
-<td>٩</td>
-<td>ט</td>
-</tr>
-<tr>
-<td>mười</td>
-<td>10</td>
-<td>X</td>
-<td>١٠</td>
-<td>י</td>
-</tr>
-<tr>
-<td>mười một&nbsp;</td>
-<td>11&nbsp;</td>
-<td>XI&nbsp;</td>
-<td>١١</td>
-<td>יא</td>
-</tr>
-<tr>
-<td>mười hai</td>
-<td>12</td>
-<td>XII&nbsp;</td>
-<td>١٢</td>
-<td>יב</td>
-</tr>
-<tr>
-<td>mười ba</td>
-<td>13</td>
-<td>XIII</td>
-<td>١٣</td>
-<td>יג</td>
-</tr>
-<tr>
-<td>mười bốn</td>
-<td>14</td>
-<td>XIV</td>
-<td>١٤</td>
-<td>יד</td>
-</tr>
-<tr>
-<td>mười lăm</td>
-<td>15&nbsp;</td>
-<td>XV</td>
-<td>١٥</td>
-<td>טו</td>
-</tr>
-<tr>
-<td>mười sáu</td>
-<td>16</td>
-<td>XVI</td>
-<td>١٦</td>
-<td>טז</td>
-</tr>
-<tr>
-<td>mười bảy</td>
-<td>17</td>
-<td>XVII</td>
-<td>١٧</td>
-<td>יז</td>
-</tr>
-<tr>
-<td>mười tám</td>
-<td>18</td>
-<td>XVIII</td>
-<td>١٨</td>
-<td>יח</td>
-</tr>
-<tr>
-<td>mười chín</td>
-<td>19</td>
-<td>XIX</td>
-<td>١٩</td>
-<td>יט</td>
-</tr>
-<tr>
-<td>hai mươi</td>
-<td>20</td>
-<td>XX</td>
-<td>٢٠</td>
-<td>כ</td>
-</tr>
-<tr>
-<td>ba mươi</td>
-<td>30</td>
-<td>XXX&nbsp;</td>
-<td>٣٠</td>
-<td>ל</td>
-</tr>
-<tr>
-<td>bốn&nbsp;mươi</td>
-<td>40</td>
-<td>XL</td>
-<td>٤٠</td>
-<td>מ</td>
-</tr>
-<tr>
-<td>năm&nbsp;mươi</td>
-<td>50</td>
-<td>L</td>
-<td>٥٠</td>
-<td>נ</td>
-</tr>
-<tr>
-<td>sáu&nbsp;mươi</td>
-<td>60</td>
-<td>LX</td>
-<td>٦٠</td>
-<td>ס</td>
-</tr>
-<tr>
-<td>bảy&nbsp;mươi</td>
-<td>70</td>
-<td>LXX</td>
-<td>٧٠</td>
-<td>ע</td>
-</tr>
-<tr>
-<td>tám&nbsp;mươi</td>
-<td>80</td>
-<td>LXXX</td>
-<td>٨٠</td>
-<td>פ</td>
-</tr>
-<tr>
-<td>chín&nbsp;mươi</td>
-<td>90</td>
-<td>XC&nbsp;</td>
-<td>٩٠</td>
-<td>צ</td>
-</tr>
-<tr>
-<td>một trăm&nbsp;</td>
-<td>100</td>
-<td>C</td>
-<td>١٠٠</td>
-<td>ק</td>
-</tr>
-</tbody>
+
+<table border="1" cellpadding="0" cellspacing="5" class="MsoNormalTable" style="background: white; border: solid #AAAAAA 1.0pt; font-family: Times New Roman; margin-left: 12.0pt; mso-border-alt: solid #AAAAAA .75pt; mso-border-insideh: .75pt solid #AAAAAA; mso-border-insidev: .75pt solid #AAAAAA; mso-cellspacing: 3.7pt; mso-padding-alt: 3.0pt 3.0pt 3.0pt 3.0pt;">
+  <tbody style="color: #252525; mso-bidi-font-weight: bold;">
+  <tr>
+  <td>Tên</td>
+  <td>Tây Ả Rập</td>
+  <td>Roman</td>
+  <td>Đông Ả Rập</td>
+  <td>Do Thái</td>
+  </tr>
+  <tr>
+  <td>không</td>
+  <td>0</td>
+  <td>&nbsp;</td>
+  <td>٠</td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td>một</td>
+  <td>1</td>
+  <td>I&nbsp;</td>
+  <td>١</td>
+  <td>א</td>
+  </tr>
+  <tr>
+  <td>hai</td>
+  <td>2</td>
+  <td>II</td>
+  <td>٢</td>
+  <td>ב</td>
+  </tr>
+  <tr>
+  <td>ba</td>
+  <td>3</td>
+  <td>III</td>
+  <td>٣</td>
+  <td>ג</td>
+  </tr>
+  <tr>
+  <td>bốn</td>
+  <td>4</td>
+  <td>IV</td>
+  <td>٤</td>
+  <td>ד</td>
+  </tr>
+  <tr>
+  <td>năm</td>
+  <td>5</td>
+  <td>V</td>
+  <td>٥</td>
+  <td>ה</td>
+  </tr>
+  <tr>
+  <td>sáu</td>
+  <td>6</td>
+  <td>VI</td>
+  <td>٦</td>
+  <td>ו</td>
+  </tr>
+  <tr>
+  <td>bảy</td>
+  <td>7</td>
+  <td>VII</td>
+  <td>٧</td>
+  <td>ז</td>
+  </tr>
+  <tr>
+  <td>tám</td>
+  <td>8</td>
+  <td>VIII</td>
+  <td>٨</td>
+  <td>ח</td>
+  </tr>
+  <tr>
+  <td>chín</td>
+  <td>9</td>
+  <td>IX</td>
+  <td>٩</td>
+  <td>ט</td>
+  </tr>
+  <tr>
+  <td>mười</td>
+  <td>10</td>
+  <td>X</td>
+  <td>١٠</td>
+  <td>י</td>
+  </tr>
+  <tr>
+  <td>mười một&nbsp;</td>
+  <td>11&nbsp;</td>
+  <td>XI&nbsp;</td>
+  <td>١١</td>
+  <td>יא</td>
+  </tr>
+  <tr>
+  <td>mười hai</td>
+  <td>12</td>
+  <td>XII&nbsp;</td>
+  <td>١٢</td>
+  <td>יב</td>
+  </tr>
+  <tr>
+  <td>mười ba</td>
+  <td>13</td>
+  <td>XIII</td>
+  <td>١٣</td>
+  <td>יג</td>
+  </tr>
+  <tr>
+  <td>mười bốn</td>
+  <td>14</td>
+  <td>XIV</td>
+  <td>١٤</td>
+  <td>יד</td>
+  </tr>
+  <tr>
+  <td>mười lăm</td>
+  <td>15&nbsp;</td>
+  <td>XV</td>
+  <td>١٥</td>
+  <td>טו</td>
+  </tr>
+  <tr>
+  <td>mười sáu</td>
+  <td>16</td>
+  <td>XVI</td>
+  <td>١٦</td>
+  <td>טז</td>
+  </tr>
+  <tr>
+  <td>mười bảy</td>
+  <td>17</td>
+  <td>XVII</td>
+  <td>١٧</td>
+  <td>יז</td>
+  </tr>
+  <tr>
+  <td>mười tám</td>
+  <td>18</td>
+  <td>XVIII</td>
+  <td>١٨</td>
+  <td>יח</td>
+  </tr>
+  <tr>
+  <td>mười chín</td>
+  <td>19</td>
+  <td>XIX</td>
+  <td>١٩</td>
+  <td>יט</td>
+  </tr>
+  <tr>
+  <td>hai mươi</td>
+  <td>20</td>
+  <td>XX</td>
+  <td>٢٠</td>
+  <td>כ</td>
+  </tr>
+  <tr>
+  <td>ba mươi</td>
+  <td>30</td>
+  <td>XXX&nbsp;</td>
+  <td>٣٠</td>
+  <td>ל</td>
+  </tr>
+  <tr>
+  <td>bốn&nbsp;mươi</td>
+  <td>40</td>
+  <td>XL</td>
+  <td>٤٠</td>
+  <td>מ</td>
+  </tr>
+  <tr>
+  <td>năm&nbsp;mươi</td>
+  <td>50</td>
+  <td>L</td>
+  <td>٥٠</td>
+  <td>נ</td>
+  </tr>
+  <tr>
+  <td>sáu&nbsp;mươi</td>
+  <td>60</td>
+  <td>LX</td>
+  <td>٦٠</td>
+  <td>ס</td>
+  </tr>
+  <tr>
+  <td>bảy&nbsp;mươi</td>
+  <td>70</td>
+  <td>LXX</td>
+  <td>٧٠</td>
+  <td>ע</td>
+  </tr>
+  <tr>
+  <td>tám&nbsp;mươi</td>
+  <td>80</td>
+  <td>LXXX</td>
+  <td>٨٠</td>
+  <td>פ</td>
+  </tr>
+  <tr>
+  <td>chín&nbsp;mươi</td>
+  <td>90</td>
+  <td>XC&nbsp;</td>
+  <td>٩٠</td>
+  <td>צ</td>
+  </tr>
+  <tr>
+  <td>một trăm&nbsp;</td>
+  <td>100</td>
+  <td>C</td>
+  <td>١٠٠</td>
+  <td>ק</td>
+  </tr>
+  </tbody>
 </table>
-</figure>
+
 <h3 id="bảng-tổng-hợp-cac-ki-hiệu-cơ-bản"><span id="Cac_ki_hieu_trong_toan_hoc_co_ban"><strong>Các kí hiệu trong toán học cơ bản</strong></span></h3>
-<p>Dưới đây là bảng thông tin về những kí hiệu toán cơ bản thường được sử dụng mà Team Marathon tổng hợp được.</p>
-<figure class="wp-block-table">
+
 <table>
 <tbody>
 <tr>
@@ -605,10 +1038,9 @@ title: Các kí hiệu toán học
 </tr>
 </tbody>
 </table>
-</figure>
-<h3 id="bảng-tổng-hợp-cac-ki-hiệu-dại-số"><span id="Cac_ki_hieu_dai_so_trong_toan_hoc"><strong>Các kí hiệu đại số&nbsp;trong toán học</strong></span></h3>
-<p>Tiếp theo, Marathon sẽ chia sẻ cho các em những thông tin về những kí hiệu đại số phổ biến.</p>
-<div style="clear:both; margin-top:0em; margin-bottom:1em;"><a href="https://blog.marathon.edu.vn/nguyen-ham-tanx/" target="_blank" rel="dofollow" class="ub72fc8c1a36ddb541781916d641ad4f4"><div style="padding-left:1em; padding-right:1em;"><span class="ctaText"></span>&nbsp; <span class="postTitle">Cách Tính Nguyên Hàm Tanx Và Bài Tập Áp Dụng</span></div></a></div><figure class="wp-block-table">
+
+<h3 id="bảng-tổng-hợp-cac-ki-hiệu-dại-số"><span id="Cac_ki_hieu_dai_so_trong_toan_hoc"><strong>Các kí hiệu đại số trong toán học</strong></span></h3>
+
 <table>
 <tbody>
 <tr>
@@ -801,10 +1233,7 @@ title: Các kí hiệu toán học
 </table>
 </figure>
 
-## B
-<h3 id="bảng-tổng-hợp-cac-ki-hiệu-hinh-học"><span id="Cac_ki_hieu_hinh_hoc"><strong>Các kí hiệu hình học&nbsp;</strong></span></h3>
-<p>Cùng với đại số, Team Marathon Education sẽ giới thiệu đến các em những kí hiệu hình học thường được sử dụng.</p>
-<div style="clear:both; margin-top:0em; margin-bottom:1em;"><a href="https://blog.marathon.edu.vn/tich-phan-suy-rong/" target="_blank" rel="dofollow" class="u075878e09aa414c70406007982ad38b4"><div style="padding-left:1em; padding-right:1em;"><span class="ctaText"></span>&nbsp; <span class="postTitle">Tích Phân Suy Rộng Là Gì? Cách Tính Tích Phân Suy Rộng</span></div></a></div><figure class="wp-block-table">
+<h3 id="bảng-tổng-hợp-cac-ki-hiệu-hinh-học"><span id="Cac_ki_hieu_hinh_hoc"><strong>Các kí hiệu hình học</strong></span></h3>
 <table>
 <tbody>
 <tr>
@@ -953,12 +1382,10 @@ title: Các kí hiệu toán học
 </tr>
 </tbody>
 </table>
-</figure>
 
 
 <h3 id="bảng-tổng-hợp-cac-ki-hiệu-xac-suất-va-thống-ke"><span id="Cac_ki_hieu_xac_suat_va_thong_ke"><strong>Các kí hiệu xác suất và thống kê</strong></span></h3>
-<p>Xác suất và thống kê không chỉ phổ biến trong chương trình phổ thông mà còn ứng dụng khá nhiều trong cuộc sống. Do đó, các em cũng nên biết thêm kiến thức về những kí hiệu xác suất và thống kê thường được sử dụng bên dưới.</p>
-<figure class="wp-block-table">
+
 <table>
 <tbody>
 <tr>
@@ -1215,10 +1642,9 @@ title: Các kí hiệu toán học
 </tr>
 </tbody>
 </table>
-</figure>
-<h3 id="bảng-tổng-hợp-cac-ki-hiệu-tập-hợp"><span id="Cac_ki_hieu_tap_hop_trong_toan_hoc"><strong>Các kí hiệu tập hợp&nbsp;trong toán học</strong></span></h3>
-<p>Đây là những ký hiệu lý thuyết liên quan đến tập hợp phổ biến mà các em thường gặp.</p>
-<figure class="wp-block-table">
+
+<h3 id="bảng-tổng-hợp-cac-ki-hiệu-tập-hợp"><span id="Cac_ki_hieu_tap_hop_trong_toan_hoc"><strong>Các kí hiệu tập hợp trong toán học</strong></span></h3>
+
 <table>
 <tbody>
 <tr>
@@ -1433,9 +1859,9 @@ title: Các kí hiệu toán học
 </tr>
 </tbody>
 </table>
-</figure>
+
 <h2><span id="Bieu_tuong_Hy_Lap"><strong>Biểu tượng Hy Lạp</strong></span></h2>
-<figure class="wp-block-table">
+
 <table>
 <tbody>
 <tr>
@@ -1804,4 +2230,3 @@ title: Các kí hiệu toán học
 </table>
 </figure>
 
-</div>
