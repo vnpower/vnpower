@@ -6,6 +6,7 @@ title: Simplest async/await example possible in Python
 
 # Case 1: just normal Python
 ## Python code
+The code below can be test using [W3School](https://www.w3schools.com/python/trypython.asp?filename=demo_ref_print3)
 ```python
 import time
 def sleep():
